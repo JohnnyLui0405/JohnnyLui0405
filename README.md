@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **mobile development**
 
-- 📫 How to reach me **contact@cslui.com**
+- 📫 How to reach me **johnny@cslui.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
